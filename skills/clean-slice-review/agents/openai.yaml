@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clean Architecture + Vertical Slices"
+  short_description: "Evidence-based architecture review with a Markdown report"
+  default_prompt: "Use $clean-slice-review to assess this project's Clean Architecture and Vertical Slices and save a concise Markdown report in my language."

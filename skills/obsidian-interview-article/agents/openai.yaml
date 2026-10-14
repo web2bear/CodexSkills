@@ -1,0 +1,7 @@
+interface:
+  display_name: "Obsidian Interview Article"
+  short_description: "Создание interview-first статей для Obsidian"
+  default_prompt: "Use $obsidian-interview-article to create an interview-first Obsidian article for the technical topic I provide."
+
+policy:
+  allow_implicit_invocation: true
