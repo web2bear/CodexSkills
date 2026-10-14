@@ -7,7 +7,6 @@ Personal Codex skills maintained by `web2bear`. This repository stores the skill
 | `clean-slice-review` | Review Clean Architecture and Vertical Slice boundaries. |
 | `premium-infographic` | Generate Russian educational PNG infographics. |
 | `windows-software-finder` | Research and compare Windows software. |
-| `number-inbox-notes` | Number Obsidian Inbox notes from a course catalog. |
 | `obsidian-interview-article` | Create interview preparation notes in Obsidian. |
 | `rapid-skill-learning` | Run practice-first learning sessions. |
 
